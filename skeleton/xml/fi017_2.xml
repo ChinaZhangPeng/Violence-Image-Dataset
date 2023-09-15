@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>fi017_2.jpg</filename>
+	<path>/media/leka/4C66421F664209E2/skeleton_data/images/fi017_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fighting</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>56</ymin>
+			<xmax>308</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>skele_118.jpg</filename>
+	<path>/media/leka/4C66421F664209E2/skeleton_data/images/skele_118.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>345</width>
+		<height>306</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fighting</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>24</ymin>
+			<xmax>325</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

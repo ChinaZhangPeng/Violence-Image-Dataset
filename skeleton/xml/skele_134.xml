@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>skele_134.jpg</filename>
+	<path>/media/leka/4C66421F664209E2/skeleton_data/images/skele_134.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>120</width>
+		<height>189</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>14</ymin>
+			<xmax>74</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>

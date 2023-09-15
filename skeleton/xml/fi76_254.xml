@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>fi76_254.jpg</filename>
+	<path>/media/leka/4C66421F664209E2/skeleton_data/images/fi76_254.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fighting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>35</ymin>
+			<xmax>436</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

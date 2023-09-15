@@ -1,0 +1,26 @@
+<annotation>
+	<folder>frame_with_skeleton</folder>
+	<filename>fi191_14.jpg</filename>
+	<path>/media/leka/ACB034F7B034C99A/codes/yolov7-main/data/fight_data/skeleton/frame_with_skeleton/fi191_14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fighting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>88</ymin>
+			<xmax>250</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>fi146_362.jpg</filename>
+	<path>/media/leka/ACB034F7B034C99A/codes/yolov7-main/data/fight_data/images/fi146_362.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fighting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>476</ymin>
+			<xmax>789</xmax>
+			<ymax>1023</ymax>
+		</bndbox>
+	</object>
+</annotation>

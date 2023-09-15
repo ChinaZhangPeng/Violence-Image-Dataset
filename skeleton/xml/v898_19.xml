@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_batch</folder>
+	<filename>v898_19.jpg</filename>
+	<path>/media/leka/ACB034F7B034C99A/codes/yolov7-main/data/fight_data/new_batch/v898_19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fighting</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>79</ymin>
+			<xmax>258</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

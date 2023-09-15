@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>fi189_358.jpg</filename>
+	<path>/media/leka/4C66421F664209E2/fight_data/images/fi189_358.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fighting</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>26</ymin>
+			<xmax>491</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

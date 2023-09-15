@@ -1,0 +1,26 @@
+<annotation>
+	<folder>frames</folder>
+	<filename>fighting_enu_409.jpg</filename>
+	<path>/home/leka/桌面/展厅/frames/fighting_enu_409.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fighting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>28</ymin>
+			<xmax>243</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

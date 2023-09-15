@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>FDSD_fight_408.jpg</filename>
+	<path>/media/leka/4C66421F664209E2/fight_data/images/FDSD_fight_408.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>168</ymin>
+			<xmax>376</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

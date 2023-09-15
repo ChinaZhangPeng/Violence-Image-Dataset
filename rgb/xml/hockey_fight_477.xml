@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation>
+	<folder>HockeyFights-230802-1</folder>
+	<filename>fi19-20230802-101234.131924.jpg</filename>
+	<path>/media/zjj/HDD3/train_data/yolov7/&#25171;&#26550;/yolo_yolopose_&#22238;&#24402;/02_/HockeyFights-230802-1/fi19-20230802-101234.131924.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fighting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>82</ymin>
+			<xmax>290</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>skeleton</folder>
+	<filename>fighting_enu_547.jpg</filename>
+	<path>/home/leka/桌面/展厅/frames/skeleton/fighting_enu_547.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fighting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>45</ymin>
+			<xmax>164</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

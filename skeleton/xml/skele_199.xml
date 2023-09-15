@@ -1,0 +1,26 @@
+<annotation>
+	<folder>frame_with_skeleton</folder>
+	<filename>skele_199.jpg</filename>
+	<path>/media/leka/4C66421F664209E2/score-rgb/skele/frame_with_skeleton/skele_199.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fighting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>11</ymin>
+			<xmax>205</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>skeleton</folder>
+	<filename>skel_213_958.jpg</filename>
+	<path>/home/leka/桌面/展厅/frames/skeleton/skel_213_958.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fighting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1054</xmin>
+			<ymin>148</ymin>
+			<xmax>1430</xmax>
+			<ymax>1040</ymax>
+		</bndbox>
+	</object>
+</annotation>

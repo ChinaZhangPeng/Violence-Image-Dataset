@@ -1,0 +1,14 @@
+<annotation>
+	<folder>fi-train-230803</folder>
+	<filename>20230803-143625.457997.jpg</filename>
+	<path>/media/zjj/HDD3/train_data/yolov7/打架/yolo_yolopose_回归/03_/fight-detection-surv-dataset-master/fight/fi-train-230803/20230803-143625.457997.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

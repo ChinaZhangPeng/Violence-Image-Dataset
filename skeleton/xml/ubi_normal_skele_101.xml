@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ubi_normal_skele_101.jpg</filename>
+	<path>/media/leka/4C66421F664209E2/skeleton_data/images/ubi_normal_skele_101.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>148</ymin>
+			<xmax>404</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>

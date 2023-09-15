@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>hockey_fight_1170.jpg</filename>
+	<path>/media/leka/4C66421F664209E2/fight_data/images/hockey_fight_1170.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>117</ymin>
+			<xmax>180</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

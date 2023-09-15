@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_frame</folder>
+	<filename>106_frame450.jpg</filename>
+	<path>/media/leka/4C66421F664209E2/fight_data/images/new_frame/106_frame450.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>406</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fighting</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>127</ymin>
+			<xmax>331</xmax>
+			<ymax>635</ymax>
+		</bndbox>
+	</object>
+</annotation>

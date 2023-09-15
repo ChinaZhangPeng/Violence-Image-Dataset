@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>v872_58.jpg</filename>
+	<path>/media/leka/ACB034F7B034C99A/codes/yolov7-main/data/fight_data/images/v872_58.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>726</width>
+		<height>670</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fighting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>186</ymin>
+			<xmax>599</xmax>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+</annotation>

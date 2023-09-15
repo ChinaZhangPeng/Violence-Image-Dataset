@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>v872_58.jpg</filename>
+	<path>/media/leka/4C66421F664209E2/skeleton_data/images/v872_58.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>726</width>
+		<height>670</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fighting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>164</ymin>
+			<xmax>599</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>

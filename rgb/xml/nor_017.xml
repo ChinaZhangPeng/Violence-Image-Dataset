@@ -1,0 +1,26 @@
+<annotation>
+	<folder>frame_with_skeleton</folder>
+	<filename>nor_017.jpg</filename>
+	<path>/media/leka/ACB034F7B034C99A/codes/yolov7-main/data/fight_data/new_batch_skel/frame_with_skeleton/nor_017.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>88</ymin>
+			<xmax>158</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

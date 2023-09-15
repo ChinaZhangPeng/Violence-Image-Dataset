@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>v828_24.jpg</filename>
+	<path>/media/leka/4C66421F664209E2/skeleton_data/images/v828_24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>608</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fighting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>364</ymin>
+			<xmax>434</xmax>
+			<ymax>905</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<annotation>
+	<folder>HockeyFights-230803</folder>
+	<filename>20230803-091525.377708.jpg</filename>
+	<path>/media/zjj/HDD3/train_data/yolov7/&#25171;&#26550;/yolo_yolopose_&#22238;&#24402;/02_/HockeyFights-230803/20230803-091525.377708.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>122</ymin>
+			<xmax>248</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fighting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>156</ymin>
+			<xmax>170</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>

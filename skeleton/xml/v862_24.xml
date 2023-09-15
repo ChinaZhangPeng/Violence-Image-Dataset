@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_batch</folder>
+	<filename>v862_24.jpg</filename>
+	<path>/media/leka/ACB034F7B034C99A/codes/yolov7-main/data/fight_data/new_batch/v862_24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>714</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fighting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>115</ymin>
+			<xmax>598</xmax>
+			<ymax>647</ymax>
+		</bndbox>
+	</object>
+</annotation>

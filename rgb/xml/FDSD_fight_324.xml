@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>FDSD_fight_324.jpg</filename>
+	<path>/media/leka/4C66421F664209E2/fight_data/images/FDSD_fight_324.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fighting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>59</ymin>
+			<xmax>334</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

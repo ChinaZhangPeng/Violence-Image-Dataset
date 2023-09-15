@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fi-train-230803</folder>
+	<filename>20230803-143624.493790.jpg</filename>
+	<path>/media/zjj/HDD3/train_data/yolov7/打架/yolo_yolopose_回归/03_/fight-detection-surv-dataset-master/fight/fi-train-230803/20230803-143624.493790.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fighting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>424</xmin>
+			<ymin>88</ymin>
+			<xmax>600</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

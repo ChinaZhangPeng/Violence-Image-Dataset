@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_batch</folder>
+	<filename>v856_13.jpg</filename>
+	<path>/media/leka/ACB034F7B034C99A/codes/yolov7-main/data/fight_data/new_batch/v856_13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>726</width>
+		<height>650</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fighting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>121</ymin>
+			<xmax>524</xmax>
+			<ymax>621</ymax>
+		</bndbox>
+	</object>
+</annotation>

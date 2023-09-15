@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ubi_train_035.jpg</filename>
+	<path>/media/leka/4C66421F664209E2/frame_with_skeleton(ubi-fights)/images/ubi_train_035.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>157</ymin>
+			<xmax>420</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>
